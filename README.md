@@ -3,7 +3,7 @@
 nginx 镜像的日常使用非常频繁。下面介绍如何快速部署 nginx 应用到 CLaaS 平台:
 
 - [a 镜像准备](#a镜像准备)
-- [部署应用](#部署应用)
+- [部署应用](#部署b应用)
 - [查看应用](#查看应用)
 
 ## a 镜像准备
@@ -11,7 +11,7 @@ CLaaS 平台提供了[镜像仓库](../image/README.md)的功能，用户可以�
 
 ![PNG](../images/getstarted-nginx-image.png)
 
-## 部署应用
+## 部署 b 应用
 填写应用的基本信息，实例数是应用运行在 kubernetes 中 pod 数量。
 
 ![PNG](../images/getstarted-basic-info.png)
